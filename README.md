@@ -13,5 +13,8 @@ Super heroes game quiz for kids that is learning GO + Command line knowledge
   <li>Start the quiz</li>
 </ol> 
 
-![image](https://github.com/user-attachments/assets/e108ebcf-6b8c-4a56-a21c-71b9f2270697)
+![image](https://github.com/user-attachments/assets/e3b2cef4-f71c-44d0-a79d-e8e319e9d900)
+
+To close the application, use the command CTRL + C in your keyboard from Windows or Command + C using Mac
+
 

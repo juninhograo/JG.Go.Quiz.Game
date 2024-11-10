@@ -1,0 +1,82 @@
+[
+    {
+		"Title": "Who is the superhero with a hammer that only he* can lift?",
+		"Answers": [
+			{"Title": "A - Hulk", "IsRight": false, "Code": "A"},
+			{"Title": "B - Thor", "IsRight": true, "Code": "B"},
+			{"Title": "C - Spider", "IsRight": false, "Code": "C"}
+        ]
+    },
+    {
+		"Title": "Which superhero has a suit that can fly and shoot lasers from his hands?",
+		"Answers": [
+			{"Title": "A - Wolverine", "IsRight": false, "Code": "A"},
+			{"Title": "B - Black Panther", "IsRight": false, "Code": "B"},
+			{"Title": "C - Iron Man", "IsRight": true, "Code": "C"}
+        ]
+    },
+    {
+        "Title": "What color is the Hulk?",
+		"Answers": [
+			{"Title": "A - Blue", "IsRight": false, "Code": "A"},
+			{"Title": "B - Black", "IsRight": false, "Code": "B"},
+			{"Title": "C - Green", "IsRight": true, "Code": "C"}
+        ]
+    },
+    {
+		"Title": "Who is Iron Man’s real identity?",
+		"Answers": [
+			{"Title": "A - Bruce Banner", "IsRight": false, "Code": "A"},
+			{"Title": "B - Tony Start", "IsRight": true, "Code": "B"},
+			{"Title": "C - Clint Bart", "IsRight": false, "Code": "C"}
+        ]
+    },
+    {
+		"Title": "Who is the Avenger who can shoot arrows really well?",
+		"Answers": [
+			{"Title": "A - Ant man", "IsRight": false, "Code": "A"},
+			{"Title": "B - Hawkeye", "IsRight": true, "Code": "B"},
+			{"Title": "C - Scarlet Witch", "IsRight": false, "Code": "C"}
+        ]
+    },
+    {
+		"Title": "What is the name of the Avengers’ leader who has a shield?",
+		"Answers": [
+			{"Title": "A - Thor", "IsRight": false, "Code": "A"},
+			{"Title": "B - Captain America", "IsRight": true, "Code": "B"},
+			{"Title": "C - Ghost", "IsRight": false, "Code": "C"}
+        ]
+    },
+    {
+		"Title": "Which Avenger can turn really small and talk to ants?",
+		"Answers": [
+			{"Title": "A - Ant man", "IsRight": true, "Code": "A"},
+			{"Title": "B - Mr Fantastic", "IsRight": false, "Code": "B"},
+			{"Title": "C - Mantis", "IsRight": false, "Code": "C"}
+        ]
+    },
+    {
+		"Title": "What is the name of the place where Thor comes from?",
+		"Answers": [
+			{"Title": "A - Mars", "IsRight": false, "Code": "A"},
+			{"Title": "B - Earth", "IsRight": false, "Code": "B"},
+			{"Title": "C - Asgard", "IsRight": true, "Code": "C"}
+        ]
+    },
+    {
+		"Title": "What color is Black Widow’s costume?",
+		"Answers": [
+			{"Title": "A - Black", "IsRight": true, "Code": "A"},
+			{"Title": "B - Red", "IsRight": false, "Code": "B"},
+			{"Title": "C - Green", "IsRight": false, "Code": "C"}
+        ]
+    },
+    {
+		"Title": "Who is the strong purple villain who wants to collect all the Infinity Stones?",
+		"Answers": [
+			{"Title": "A - Thanos", "IsRight": true, "Code": "A"},
+			{"Title": "B - Loki", "IsRight": false, "Code": "B"},
+			{"Title": "C - Magneto", "IsRight": false, "Code": "C"}
+        ]
+    }
+]
